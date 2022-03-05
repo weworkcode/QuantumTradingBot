@@ -1,0 +1,2 @@
+# QuantumTradingBot
+Quant Trading Bot
